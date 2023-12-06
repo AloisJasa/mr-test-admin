@@ -1,1 +1,1 @@
-# mr-test-admin
+# read-only mr-test-admin
